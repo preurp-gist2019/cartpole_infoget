@@ -130,7 +130,7 @@ if __name__ == "__main__":
     
     records = np.zeros((1,2))
     
-    trialnumber = "Default_T3"#.format(agent.epsilon) #이부분을 자기가 바꿀것!
+    trialnumber = "Default_T5"#.format(agent.epsilon) #이부분을 자기가 바꿀것!
     
     #Make the bestscore file into 1
     #i = 1
